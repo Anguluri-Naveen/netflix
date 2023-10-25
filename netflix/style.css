@@ -1,0 +1,124 @@
+.bg{
+    height: 120vh;
+    background-image: url(nimages/n1.jpg);
+    background-size: cover;
+    margin-bottom: 10px;
+}
+.trans{
+    width: 100%;
+    height: 120vh;
+    background-color: rgba(0, 0, 0, 0.651);
+   
+}
+
+ .trans img{
+    width:12%;
+    margin-left: 164px;
+    margin-top: 20px;
+    padding: 0px;
+ }
+ .tran button{
+   background-color: red;
+   color: white;
+   border: none;
+   height: 35px;
+   width: 70px;
+   text-align: center;
+   border-radius: 3px;
+   margin-top: -40px;
+   margin-right: 150px;
+   padding: 0px;
+   display: inline-block;
+ }
+ .nan{
+    height: 100vh;
+    
+ }
+body{
+    background-color: rgba(45,45,45,255);
+    font-family: Arial, Helvetica, sans-serif; 
+    
+}
+.happ{
+    margin-bottom: 10px;
+
+}
+.happ h1{
+    font-weight: 900;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.bg input{
+    background-color: transparent;
+}
+.bg label{
+  
+}
+.bg input[type="submit"]{
+    background-color: rgba(229,9,20,255);
+    color: white;
+    font-weight: 600;
+    width: 200px;
+    height: 60px;
+    border: none;
+    font-size: x-large;
+    border-radius: 3px;
+    
+   
+}
+
+.bg h1{
+    font-weight: 900;
+
+}
+#faq .accordion-button{
+    background-color: rgba(45,45,45,255);
+    color: white;
+}
+#faq .accordion-body{
+    background-color: rgba(45,45,45,255);
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 30px;
+    margin-bottom: 10px;
+    
+}
+#faq :hover{
+    cursor: pointer;
+   
+}
+
+#faq .accordion-button{
+   margin-bottom: 10px;
+   padding: 24px;
+   font-size: 24px;
+   font-weight: 600;
+   
+}
+#faq .accordion-item{
+   background-color: rgba(0, 0, 0, 0.452);
+ }
+ .dam input[type="submit"]{
+    background-color: rgba(229,9,20,255);
+    color: white;
+    width: 200px;
+    font-weight: 600;
+    font-size: x-large;
+    height: 60px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 50px;
+ }
+ .dam input[type="email"]{
+    background-color: transparent;
+    color: ;
+ }
+ .dam label{
+    color: white;
+ }
+ 
